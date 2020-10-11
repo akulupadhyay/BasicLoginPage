@@ -1,0 +1,60 @@
+#head
+{
+	text-align: center;
+	margin-top: 5%;
+	font-size: 52;
+}
+table{
+	font-weight: bolder;
+	font-variant: serif;
+	font-size: larger;
+	border-collapse: collapse;
+	border-color: black;
+	border-width: 3px; 
+	width: auto;
+	height: auto;
+	padding: 10px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	background: #ff9361;
+}
+td{
+	border-color: black;
+	border-width: 3px;
+}
+html{
+	background-color: #8cfade;
+	font-family: 'Ubuntu', sans-serif;
+}
+#box
+{
+	text-align: center;
+	margin-top: 20%;
+}
+#button1,#button2
+{
+
+	color: black;
+	font-family: "Ubuntu";
+	display:inline;
+	padding: 15;
+	margin:5%;
+	border-collapse: collapse;
+	border: solid black 2px;
+	width: auto;
+	font-size: 20;
+}
+
+
+
+a
+{
+	text-decoration: none;
+}
+a:visited
+{
+	color: black;
+	text-decoration: none;
+}
